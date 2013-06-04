@@ -9,7 +9,7 @@
 
 #define MY_UUID { 0x4A, 0x6E, 0x04, 0xAD, 0x13, 0x2A, 0x48, 0xAB, 0xB1, 0x65, 0x7F, 0xF4, 0xA9, 0x98, 0x72, 0xD3 }
 PBL_APP_INFO(MY_UUID,
-             "Text Watch With Date", "Saracco",
+             "Text Watch With Date (o')", "Saracco",
              1, 0,
              RESOURCE_ID_IMAGE_MENU_ICON,
 #if DEBUG
